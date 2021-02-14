@@ -1,0 +1,66 @@
+#exitBtn{
+    border: 10px;
+    border-radius: 10px;
+    background-color: azure;
+}
+
+#exitBtn:hover{
+    border: 10px;
+    border-radius: 10px;
+    background-color: rgba(255, 30, 0, 0.815);
+}
+
+#minimizeBtn{
+    border: 10px;
+    border-radius: 10px;
+    background-color: azure;
+}
+#minimizeBtn:hover{
+    border: 10px;
+    border-radius: 10px;
+    background-color: rgba(113, 223, 99, 0.815);
+}
+
+#fullScreenBtn{
+    border: 10px;
+    border-radius: 10px;
+    background-color: azure;
+}
+#fullScreenBtn:hover{
+    border: 10px;
+    border-radius: 10px;
+    background-color: rgba(113, 223, 99, 0.815);
+}
+
+
+#fileManagerBtn{
+    border-image:url(icons/folder-management.png)
+}
+
+#fileManagerBtn:hover{
+    border-image:url(icons/folder-management-Hover.png)
+}
+
+#AdvancedSearchBtn{
+    border-image:url(icons/FileSearch.png)
+}
+#AdvancedSearchBtn:hover{
+    border-image:url(icons/FileSearchHover.png)
+}
+
+#HomeBtn{
+    border-image:url(icons/home.png)
+}
+
+#HomeBtn:hover{
+    border-image:url(icons/homeHover.png)
+}
+
+#label{
+    image:url(icons/bros.png)
+}
+
+#LogoLbl{
+    image:url(icons/marelogo.ico)
+}
+
